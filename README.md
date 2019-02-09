@@ -10,3 +10,6 @@ Napisac jakis tekst trzeci commit
 
 
 4 wersja tego commita
+
+
+5 wersja commita 
